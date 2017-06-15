@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             private T[] array;
             public int x;
             public int y;
+            public int r;
             public MyGenericArray(int size)
             {
                 array = new T[size + 1];
