@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             public int y;
             public int r;
             public int rd;
+            public int yu;
             public MyGenericArray(int size)
             {
                 array = new T[size + 1];
